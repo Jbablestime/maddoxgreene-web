@@ -33,7 +33,8 @@ export const collaborations = [
     { name: 'TJA', imgSrc: '/TJA.jpg' },
     { name: "Badlion Client", imgSrc: '/badlionclient.jpg'},
     { name: "Feather Client", imgSrc: '/featherclient.jpg'},
-    { name: "2020 Companies", imgSrc: '/2020companies.webp'}
+    { name: "2020 Companies", imgSrc: '/2020companies.webp'},
+    { name: "Timeless Tokens", imgSrc: '/timelesstokens.jpg'}
 ];
 
 export const projects = [
